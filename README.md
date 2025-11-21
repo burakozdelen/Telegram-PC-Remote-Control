@@ -73,7 +73,7 @@ This is completely normal — it uses the same Windows APIs that real RATs use.
 - **Using it on someone else’s computer without permission is illegal** and constitutes a serious crime.
 - The developer is not responsible for any malicious use.
 
-<br><br><br><br><br>
+<br><br><br>
 # 🇹🇷 Türkçe Açıklama
 # 📱 PC UZAKTAN KONTROL (Portable EXE)
 
