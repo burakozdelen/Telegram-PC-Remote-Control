@@ -1,5 +1,82 @@
 # 📱 PC Remote Control (Portable EXE)
 
+**A powerful Python-based remote access tool that lets you fully control your computer via Telegram.**  
+No Python installation required — just download and run the .exe!
+
+## 🎯 About the Project
+
+This is a feature-rich **Remote Administration Tool (RAT)** designed to remotely manage your own personal computer.  
+It is the compiled portable EXE version of an open-source Python project, built with **PyInstaller** for maximum ease of use.
+
+> ⚠️ **Use only on your own computer or systems where you have explicit permission. Unauthorized use is illegal.**
+
+## ⚡ Features
+
+### 🎥 Media Operations
+- Take photos from webcam
+- Record video from webcam
+- Record ambient/microphone audio
+
+### 🖥️ Screen
+- Capture instant screenshots
+
+### 📊 System Information
+- CPU usage & model
+- RAM usage & total memory
+- System temperature values
+
+### 🎮 Remote Control
+- Type text remotely via keyboard
+- Move mouse and perform clicks
+
+### 🛡️ System Commands
+- Lock the computer
+- Shutdown
+
+### ⚙️ Additional Features
+- Automatically add to Windows startup (persistence)
+- Silent background operation
+- Single standalone EXE — no dependencies
+
+## 🚀 Installation & Usage
+
+1. **Download**  
+   Download the file `PC_Remote_Control.exe`.
+
+2. **Run**  
+   Run it **as Administrator** if possible (required for some features).
+
+3. **Configure Settings**
+   In the opened window:
+   - **Telegram Bot Token**: Get it from [BotFather](https://t.me/BotFather)
+   - **User ID**: Your personal Telegram User ID (you can get it from [@userinfobot](https://t.me/userinfobot))
+
+   > The bot will only respond to this User ID (security measure).
+
+4. **Start**  
+   Click **"Save Settings and Start"**.  
+   The program will minimize to the system tray and start listening for Telegram commands.
+
+## ⚠️ Antivirus Warning
+
+Tools with capabilities like screenshots, camera access, keyboard/mouse control, etc., are often flagged as **suspicious** by Windows Defender and other antivirus programs.
+
+This is completely normal — it uses the same Windows APIs that real RATs use.
+
+**Solutions:**
+- Add the file/folder to your antivirus exclusions
+- Review and compile the source code yourself if you prefer
+
+## 🔒 Security & Disclaimer
+
+- This tool is shared for **educational and personal use only**.
+- **Using it on someone else’s computer without permission is illegal** and constitutes a serious crime.
+- The developer is not responsible for any malicious use.
+
+- 
+
+# 📱 PC UZAKTAN KONTROL (Portable EXE)
+
 **Telegram üzerinden bilgisayarınızı tamamen uzaktan kontrol etmenizi sağlayan Python tabanlı, taşınabilir (.exe) bir uzaktan erişim aracı.**
 
 Python kurulumuna gerek yok — sadece indirip çalıştırın!
