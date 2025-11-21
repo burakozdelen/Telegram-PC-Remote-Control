@@ -41,7 +41,7 @@ It is the compiled portable EXE version of an open-source Python project, built 
 ## 🚀 Installation & Usage
 
 1. **Download**  
-   Download the file [PC_Remote_Control.exe](https://github.com/burakozdelen/Telegram-PC-Remote-Control/releases/download/Telegram-PC-Remote-Control-v1.0/PC.Remote.Control.Telegram.exe.zip).
+   Download the file [PC_Remote_Control.exe](https://github.com/burakozdelen/Telegram-PC-Remote-Control/releases/download/Telegram-PC-Remote-Control-v1.0/Telegram-PC-Remote-Control.v1.0.zip).
 
 2. **Run**  
    Run it **as Administrator** if possible (required for some features).
@@ -119,7 +119,7 @@ Açık kaynak bir Python projesinin, kullanım kolaylığı sağlamak amacıyla 
 ## 🚀 Kurulum ve Kullanım
 
 1. **İndirin**  
-   [PC_Remote_Control.exe](https://github.com/burakozdelen/Telegram-PC-Remote-Control/releases/download/Telegram-PC-Remote-Control-v1.0/PC.Remote.Control.Telegram.exe.zip) dosyasını indirin.
+   [PC_Remote_Control.exe](https://github.com/burakozdelen/Telegram-PC-Remote-Control/releases/download/Telegram-PC-Remote-Control-v1.0/Telegram-PC-Remote-Control.v1.0.zip) dosyasını indirin.
 
 2. **Çalıştırın**  
    Mümkünse **Yönetici olarak çalıştırın** (bazı özellikler için gereklidir).
