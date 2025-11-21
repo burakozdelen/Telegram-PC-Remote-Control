@@ -74,7 +74,7 @@ This is completely normal — it uses the same Windows APIs that real RATs use.
 - The developer is not responsible for any malicious use.
 
 
-
+# 🇹🇷 Türkçe Açıklama
 # 📱 PC UZAKTAN KONTROL (Portable EXE)
 
 **Telegram üzerinden bilgisayarınızı tamamen uzaktan kontrol etmenizi sağlayan Python tabanlı, taşınabilir (.exe) bir uzaktan erişim aracı.**
