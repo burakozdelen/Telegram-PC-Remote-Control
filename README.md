@@ -36,8 +36,6 @@ Açık kaynak bir Python projesinin, kullanım kolaylığı sağlamak amacıyla 
 ### 🛡️ Sistem Komutları
 - Bilgisayarı kilitleme
 - Kapatma
-- Yeniden başlatma
-- Uyku modu
 
 ### ⚙️ Ek Özellikler
 - Windows başlangıcına otomatik eklenme (persistence)
