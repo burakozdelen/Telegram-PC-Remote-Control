@@ -97,18 +97,15 @@ Açık kaynak bir Python projesinin, kullanım kolaylığı sağlamak amacıyla 
 
 ### 🖥️ Ekran
 - Anlık ekran görüntüsü alma (Screenshot)
-- Canlı ekran yayını (isteğe bağlı gelecek sürüm)
 
 ### 📊 Sistem Bilgileri
 - CPU kullanımı & modeli
 - RAM kullanımı & toplam bellek
-- Disk bilgileri
 - Sistem sıcaklık değerleri
 
 ### 🎮 Uzaktan Kontrol
 - Klavye ile yazı yazdırma
 - Fare hareketi ve tıklama kontrolü
-- Fare kilidi / serbest bırakma
 
 ### 🛡️ Sistem Komutları
 - Bilgisayarı kilitleme
